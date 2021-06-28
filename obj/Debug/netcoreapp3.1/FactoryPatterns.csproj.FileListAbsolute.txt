@@ -1,0 +1,13 @@
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\obj\Debug\netcoreapp3.1\FactoryPatterns.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\obj\Debug\netcoreapp3.1\FactoryPatterns.AssemblyInfo.cs
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\obj\Debug\netcoreapp3.1\FactoryPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\bin\Debug\netcoreapp3.1\FactoryPatterns.exe
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\bin\Debug\netcoreapp3.1\FactoryPatterns.deps.json
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\bin\Debug\netcoreapp3.1\FactoryPatterns.runtimeconfig.json
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\bin\Debug\netcoreapp3.1\FactoryPatterns.runtimeconfig.dev.json
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\bin\Debug\netcoreapp3.1\FactoryPatterns.dll
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\bin\Debug\netcoreapp3.1\FactoryPatterns.pdb
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\obj\Debug\netcoreapp3.1\FactoryPatterns.dll
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\obj\Debug\netcoreapp3.1\FactoryPatterns.pdb
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\obj\Debug\netcoreapp3.1\FactoryPatterns.genruntimeconfig.cache
+C:\Users\Bella\source\repos\FactoryPatterns\FactoryPatterns\obj\Debug\netcoreapp3.1\FactoryPatterns.csproj.AssemblyReference.cache
